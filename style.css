@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Container{
+  width: 50%;
+  height: 50vh;
+  background-color: antiquewhite;
+  margin: 25vh 25%;
+}
+button{
+  cursor: pointer;
+}
